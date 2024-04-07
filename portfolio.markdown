@@ -22,7 +22,7 @@ Modern CMake template for C++ projects, mostly made out of personal need not to 
 * Compiler settings for toolchain hardening and sanitizers
 * Optional integration with additional development tools - clang-format, clang-tidy, include-what-you-use, cppcheck
 
-Repository: [melinda-sw/cpp-starter-template](https://github.com/melinda-sw/cpp-starter-template_)
+Repository: [melinda-sw/cpp-starter-template](https://github.com/melinda-sw/cpp-starter-template)
 
 # Open source contributions
 
