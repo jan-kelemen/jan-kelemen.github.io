@@ -1,0 +1,10 @@
+title: Jan Kelemen - Personal site
+email: jkeleme@gmail.com
+description: >- 
+  C++, mountian bikes and old cars
+github_username:  jan-kelemen
+
+# Build settings
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
