@@ -2,13 +2,17 @@
 ---
 Interested in software architecture and design, and exploring various programming languages.
 
+See [portfolio](/portfolio) for examples of my work. Contact me on [LinkedIn](https://www.linkedin.com/in/jan-kelemen-8ba870106/) or via email <jkeleme@gmail.com>.
 # Work experience
-* [ReversingLabs d.o.o](https://www.reversinglabs.com)
-  * Developing and maintaining a static file analysis engine along with unpacker modules for various file formats
-* [AVL AST d.o.o](https://www.avl.com/en)
-  * Develompent and maintenance of components in [AVL Puma Open 2](https://www.avl.com/en/testing-solutions/all-testing-products-and-software/test-system-automation/avl-puma-2) product in C++ and .NET
-* [Evolva d.o.o.](https://www.evolva.hr/)
-  * Development of components for [Evolution framework](https://www.evolva.hr/hr/evolution_framework.html) using Java and PL/SQL
+* [ReversingLabs d.o.o](https://www.reversinglabs.com) (01/2024 - current employer)
+  * Develompent and maintenance a static file analysis engine along with modules for various file formats
+  * C++
+* [AVL AST d.o.o](https://www.avl.com/en) (07/2017 - 12/2023)
+  * Develompent and maintenance of components in [AVL Puma Open 2](https://www.avl.com/en/testing-solutions/all-testing-products-and-software/test-system-automation/avl-puma-2) product
+  * C++, .NET and .NET Framework, Python, Oracle PL/SQL
+* [Evolva d.o.o.](https://www.evolva.hr/) (06/2016 - 09/2016)
+  * Development of components for [Evolution framework](https://www.evolva.hr/hr/evolution_framework.html)
+  * Java, Oracle PL/SQL
 
 # Education
 * [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr)
@@ -19,13 +23,6 @@ Interested in software architecture and design, and exploring various programmin
 	* Thesis: Asset Tracking software
 
 # Skills
-* Programming languages
-  * C++, C#
-  * SQL, Java, C
-  * Rust, Python, TypeScript
-* Databases
-  * Oracle
-  * PostgreSQL, MSSQL, Mongo
-* Other
-  * CMake
-  * Git
+* Programming languages - C++, C#, Java, C, Rust, Python, TypeScript
+* Databases - Oracle, PostgreSQL, MSSQL, Mongo
+* Other - CMake, Git
