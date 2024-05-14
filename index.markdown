@@ -3,6 +3,9 @@
 Interested in software architecture and design, and exploring various programming languages.
 
 See [portfolio](/portfolio) for examples of my work. Contact me on [LinkedIn](https://www.linkedin.com/in/jan-kelemen-8ba870106/) or via email <jkeleme@gmail.com>.
+
+See [blog](/blog) for blog posts I've written.
+
 # Work experience
 * [ReversingLabs d.o.o](https://www.reversinglabs.com) (01/2024 - current employer)
   * Development and maintenance a static file analysis engine along with modules for various file formats
