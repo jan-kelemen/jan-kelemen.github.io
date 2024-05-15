@@ -288,7 +288,7 @@ Text rendering loads a {{.ttf}} font file using `freetype` library, which is ren
 This is the prime candidate to use as a base code for sprite rendering batching.
 
 # Debug UI
-[Dear ImGui](https://github.com/ocornut/imgui) is used as a debug UI for the game renderer. After rendering the scene additional `draw_imgui()` callback is made to the application to render the debug UI.
+[Dear ImGui](https://github.com/ocornut/imgui) is used as a debug UI for the game. After rendering the scene additional `draw_imgui()` callback is made to the application to render the debug UI.
 
 This post [Integrating Dear ImGui in a custom Vulkan renderer](https://frguthmann.github.io/posts/vulkan_imgui/) by François Guthmann, explains quite well how to integrate ImGui
 into a custom renderer. Using dynamic rendering simplifies the initialization code a lot though, the following shows the correct initialization of `ImGui_ImplVulkan_InitInfo` struct when using dynamic rendering.
@@ -320,7 +320,7 @@ init_info.PipelineRenderingCreateInfo = rendering_create_info;
 ImGui_ImplVulkan_Init(&init_info);
 ```
 
-Where the used descriptor pool just allocates one image sampler, this is enough for ImGui in a using a standalone descriptor pool:
+Where the used descriptor pool just allocates one image sampler, this is enough for ImGui when using a dedicated descriptor pool:
 ```
 VkDescriptorPoolSize imgui_sampler_pool_size{};
 imgui_sampler_pool_size.type =
