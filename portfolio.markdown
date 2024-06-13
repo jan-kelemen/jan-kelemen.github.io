@@ -7,6 +7,10 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 
 # Personal projects
 
+## Graphics demos (2024 - Active)
+* Pawn - Chess engine visualization (2024), [Blog post](/2024/06/13/chess-engine-visualization.html), [Repository](https://github.com/jan-kelemen/pawn)
+* Super Mario Bros - World 1-1 remake (2024), [Blog post](/2024/05/14/remaking-world-11-mostly.html)
+
 ## vkchip8 (2024)
 CHIP-8 emulator using Vulkan API for screen rendering and SDL2 for PC speaker buzzer. Implemented with C++20, works on Windows and Linux.
 
