@@ -284,7 +284,7 @@ Sprite rendering reuses the world rendering shader and code with a texture atlas
 It would be better to make a batched renderer that deals only with sprites, in particular if support for different size sprites is added, as the world shader assumes uniform tile sizes.
  
 ## Text rendering
-Text rendering loads a {{.ttf}} font file using `freetype` library, which is rendered to an image and sent to the graphics card as a texture. Text is rendered in a single batch using a batched renderer.
+Text rendering loads a `.ttf` font file using `freetype` library, which is rendered to an image and sent to the graphics card as a texture. Text is rendered in a single batch using a batched renderer.
 This is the prime candidate to use as a base code for sprite rendering batching.
 
 # Debug UI
