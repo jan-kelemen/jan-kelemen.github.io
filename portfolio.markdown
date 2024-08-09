@@ -8,6 +8,7 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 # Personal projects
 
 ## Graphics demos (2024 - Active)
+* soil - Terrain renderer (2024), [Blog post](/2024/08/10/rendering-medvednica-from-heightmap.html), [Repository](https://github.com/jan-kelemen/soil)
 * geos - Geometric shape sorter (2024), [Blog post](/2024/07/05/it-goes-in-the-square-hole.html), [Repository](https://github.com/jan-kelemen/geos)
 * pawn - Chess engine visualization (2024), [Blog post](/2024/06/13/chess-engine-visualization.html), [Repository](https://github.com/jan-kelemen/pawn)
 * Super Mario Bros - World 1-1 remake (2024), [Blog post](/2024/05/14/remaking-world-11-mostly.html)
