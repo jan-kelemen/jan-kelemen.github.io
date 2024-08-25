@@ -7,7 +7,13 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 
 # Personal projects
 
+## niku (2024 - Active)
+**WIP** Cross platform game engine using Vulkan API for rendering. Implemented in C++23 with support for Windows and Linux.
+
+Repository: [jan-kelemen/niku](https://github.com/jan-kelemen/niku)
+
 ## Graphics demos (2024 - Active)
+* beam - Compute shader raytracer (2024), [Blog post](/2024/08/25/i-see-spheres-now.html), [Repository](https://github.com/jan-kelemen/beam)
 * soil - Terrain renderer (2024), [Blog post](/2024/08/10/rendering-medvednica-from-heightmap.html), [Repository](https://github.com/jan-kelemen/soil)
 * geos - Geometric shape sorter (2024), [Blog post](/2024/07/05/it-goes-in-the-square-hole.html), [Repository](https://github.com/jan-kelemen/geos)
 * pawn - Chess engine visualization (2024), [Blog post](/2024/06/13/chess-engine-visualization.html), [Repository](https://github.com/jan-kelemen/pawn)
