@@ -58,14 +58,14 @@ uint rng_state = pc.frameSeed + texelCoord.x + texelCoord.y * imageSize.y;
 The compute shader accumulates the results to an offscreen buffer, using a swap chain image directly isn't applicable in this case since it needs to preserve the information from the previous frame, but the swap chain images are cycled.
 So on each frame, the offscreen buffer is copied to the swap chain image used by the current frame, using `vkCmdBlitImage`. 
 ```
-    vkCmdBlitImage(command_buffer,
-        color_image_.image,
-        VK_IMAGE_LAYOUT_TRANSFER_SRC_OPTIMAL,
-        target_image.image,
-        VK_IMAGE_LAYOUT_TRANSFER_DST_OPTIMAL,
-        1,
-        &region,
-        VK_FILTER_NEAREST);
+vkCmdBlitImage(command_buffer,
+    color_image_.image,
+    VK_IMAGE_LAYOUT_TRANSFER_SRC_OPTIMAL,
+    target_image.image,
+    VK_IMAGE_LAYOUT_TRANSFER_DST_OPTIMAL,
+    1,
+    &region,
+    VK_FILTER_NEAREST);
 ```
 This is a very similar process that would be needed to take a screenshot of the application, just done in reverse.
 
