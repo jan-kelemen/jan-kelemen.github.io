@@ -89,7 +89,7 @@ Below is an example of the lion's head without normal mapping.
 ![lion-unmapped](/assets/posts/20240927/2024-09-27-lion.jpg)
 {: refdef}
 
-The intro video on timestamp `0:19` how it looks with normal mapping enabled. 
+The intro video on timestamp `0:19` shows how it looks with normal mapping enabled. 
 Since it only creates an illusion, it works best when the mesh is viewed from the front side.
 When the viewing angle is steep, the illusion breaks, for example, compare the front facing and the side facing planes of the object on `0:22`, the side facing one is visibly flat.
 
