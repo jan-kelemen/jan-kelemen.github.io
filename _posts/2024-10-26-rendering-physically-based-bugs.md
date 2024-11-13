@@ -127,7 +127,7 @@ Therefore if one part of the model samples from one cube face, and a neighboring
 
 I mistakenly forgot to switch on linear filtering on the sampler for this texture. In the grand scheme of things, the difference is small but still visible.
 {:refdef: style="text-align: center;"}
-![sponza-before](/assets/posts/20241026/2024-10-26-after.png)
+![sponza-after](/assets/posts/20241026/2024-10-26-after.png)
 {:refdef}
 
 As far as the flowers are concerned, they show a strong specular component too.

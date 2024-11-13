@@ -8,7 +8,15 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 # Personal projects
 
 ## niku (2024 - Active)
-**WIP** Cross platform game engine using Vulkan API for rendering. Implemented in C++23 with support for Windows and Linux.
+**WIP** Cross platform game engine implemented in C++23 with support for Windows and Linux.
+
+### Features
+* Vulkan 1.3 rendering backend
+* Support for runtime shader compilation and reflection with glslang and SPIRV-Cross
+* Support for loading glTF files
+
+### Demo applications
+* gltfviewer - 3D renderer for glTF files implementing a Physically Based Rendering workflow
 
 Repository: [jan-kelemen/niku](https://github.com/jan-kelemen/niku)
 
@@ -18,11 +26,7 @@ Repository: [jan-kelemen/niku](https://github.com/jan-kelemen/niku)
 * geos - Geometric shape sorter (2024), [Blog post](/2024/07/05/it-goes-in-the-square-hole.html), [Repository](https://github.com/jan-kelemen/geos)
 * pawn - Chess engine visualization (2024), [Blog post](/2024/06/13/chess-engine-visualization.html), [Repository](https://github.com/jan-kelemen/pawn)
 * Super Mario Bros - World 1-1 remake (2024), [Blog post](/2024/05/14/remaking-world-11-mostly.html)
-
-## vkchip8 (2024)
-CHIP-8 emulator using Vulkan API for screen rendering and SDL2 for PC speaker buzzer. Implemented with C++20, works on Windows and Linux.
-
-Repository: [jan-kelemen/vkchip8](https://github.com/jan-kelemen/vkchip8)
+* vkchip8 - CHIP-8 emulator (2024), [Repository](https://github.com/jan-kelemen/vkchip8)
 
 ## cpp-starter-template (2020 - Active)
 Modern CMake template for C++ projects, mostly made out of personal need not to set it up from scratch for every project.
@@ -37,6 +41,10 @@ Modern CMake template for C++ projects, mostly made out of personal need not to 
 Repository: [melinda-sw/cpp-starter-template](https://github.com/melinda-sw/cpp-starter-template)
 
 # Open source contributions
+## Conan2
+Occasional contribution to public Conan2 package index.
+
+Repository: [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
 
 ## OpenRCT2
 Occasional contribution to OpenRCT2 project, an open source re-implementation of RollerCoaster Tycoon 2.
