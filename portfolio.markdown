@@ -17,6 +17,7 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 
 ### Demo applications
 * gltfviewer - 3D renderer for glTF files implementing a Physically Based Rendering workflow
+* galileo - Deferred 3D renderer with physics and scripting support
 
 Repository: [jan-kelemen/niku](https://github.com/jan-kelemen/niku)
 
