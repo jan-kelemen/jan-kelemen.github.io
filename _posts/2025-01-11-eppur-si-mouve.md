@@ -1,5 +1,5 @@
 ---
-title: Eppur si mouve
+title: Eppur si muove
 author: Jan Kelemen
 tags: [C++, Vulkan, graphics programming, niku]
 ---
