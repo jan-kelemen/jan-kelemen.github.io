@@ -13,7 +13,7 @@ See [blog](/blog) for blog posts I've written.
 * [AVL AST d.o.o](https://www.avl.com/en) (07/2017 - 12/2023)
   * Development and maintenance of components in [AVL Puma Open 2](https://www.avl.com/en/testing-solutions/all-testing-products-and-software/test-system-automation/avl-puma-2) product
   * C++, .NET and .NET Framework, Python, Oracle PL/SQL
-* [Evolva d.o.o.](https://www.evolva.hr/) (06/2016 - 09/2016)
+* [Evolva d.o.o.](https://www.evolva.hr/) (06/2016 - 09/2016) (Internship)
   * Development of components for [Evolution framework](https://www.evolva.hr/hr/evolution_framework.html)
   * Java, Oracle PL/SQL
 

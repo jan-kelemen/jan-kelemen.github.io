@@ -14,10 +14,12 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 * Vulkan 1.3 rendering backend
 * Support for runtime shader compilation and reflection with glslang and SPIRV-Cross
 * Support for loading glTF files
+* Support for 3D physics simulation with Jolt library
+* Support for scripting with AngelScript language
 
 ### Demo applications
-* gltfviewer - 3D renderer for glTF files implementing a Physically Based Rendering workflow
-* galileo - Deferred 3D renderer with physics and scripting support
+* galileo - Deferred 3D renderer with physics and scripting
+* gltfviewer - Forward 3D renderer for glTF files implementing a Physically Based Rendering workflow
 
 Repository: [jan-kelemen/niku](https://github.com/jan-kelemen/niku)
 
