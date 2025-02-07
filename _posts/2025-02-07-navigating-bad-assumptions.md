@@ -80,12 +80,12 @@ At one point I'll have to implement the rest of the functionality provided by th
 ## Spreading the disease
 On the topic of changes in `gltfviewer`, I fixed a nasty bug. The black pixel in the middle of the image below is a pixel with `NaN` value.
 {:refdef: style="text-align: center;"}
-![nan-disease-1](/assets/posts/20250208/2025-02-08-disease1.jpeg)
+![nan-disease-1](/assets/posts/20250207/2025-02-07-disease1.jpeg)
 {:refdef}
 
 It happens, there was a division by 0 in the PBR shading code. The issue wouldn't be obvious without the blur shader doing its thing.
 {:refdef: style="text-align: center;"}
-![nan-disease-2](/assets/posts/20250208/2025-02-08-disease2.jpeg)
+![nan-disease-2](/assets/posts/20250207/2025-02-07-disease2.jpeg)
 {:refdef}
 
 That one pixel would sometimes end up being sampled by the blurring process. 
