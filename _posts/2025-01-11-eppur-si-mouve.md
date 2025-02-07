@@ -58,10 +58,10 @@ class character_contact_listener_t final : public JPH::CharacterContactListener
 When a character collides with a body, `OnContactAdded` will be called. 
 Through this I've implemented the possibility for the character to push a sphere, by adding a force to the colliding object:
 ```
-        auto& interface{physics_engine_->body_interface()};
-        interface.AddForce(inBodyID2,
-            inContactNormal * inCharacter->GetMass() * 100,
-            inContactPosition);
+auto& interface{physics_engine_->body_interface()};
+interface.AddForce(inBodyID2,
+    inContactNormal * inCharacter->GetMass() * 100,
+    inContactPosition);
 ```
 
 Another functionality implemented with the contact listener is the collision with the box in the world, colliding with the box spawns a new sphere on random coordinates.
