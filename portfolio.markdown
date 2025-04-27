@@ -36,7 +36,7 @@ Modern CMake template for C++ projects, mostly made out of personal need not to 
 
 ### Features
 * CMake build supporting three major C++ compilers including cross compilation for AArch64
-* Package management using [Conan 2](https://conan.io)
+* Package management using [Conan](https://conan.io)
 * CI pipeline using GitHub actions for Windows and Linux
 * Compiler settings for toolchain hardening and sanitizers
 * Optional integration with additional development tools - clang-format, clang-tidy, include-what-you-use, cppcheck
@@ -44,8 +44,13 @@ Modern CMake template for C++ projects, mostly made out of personal need not to 
 Repository: [melinda-sw/cpp-starter-template](https://github.com/melinda-sw/cpp-starter-template)
 
 # Open source contributions
-## Conan2
-Occasional contribution to public Conan2 package index.
+## glslang
+Occasional contribution to reference frontend to GLSL and SPIR-V related components.
+
+Repositories: [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) and [KhronosGroup/SPIRV-Tools](https://github.com/KhronosGroup/SPIRV-Tools)
+
+## Conan
+Occasional contribution to public Conan package index.
 
 Repository: [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
 

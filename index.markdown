@@ -9,6 +9,7 @@ See [blog](/blog) for blog posts I've written.
 # Work experience
 * [ReversingLabs d.o.o](https://www.reversinglabs.com) (01/2024 - current employer)
   * Development and maintenance a static file analysis engine along with modules for various file formats
+  * Interviewing candidates and mentoring new colleagues
   * C++
 * [AVL AST d.o.o](https://www.avl.com/en) (07/2017 - 12/2023)
   * Development and maintenance of components in [AVL Puma Open 2](https://www.avl.com/en/testing-solutions/all-testing-products-and-software/test-system-automation/avl-puma-2) product
@@ -28,4 +29,4 @@ See [blog](/blog) for blog posts I've written.
 # Skills
 * Programming languages - C++, C#, Java, C, Rust, Python, TypeScript
 * Databases - Oracle, PostgreSQL, MSSQL, Mongo
-* Other - CMake, Git
+* Other - Vulkan, CMake, Git, Conan
