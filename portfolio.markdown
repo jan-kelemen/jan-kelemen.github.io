@@ -20,6 +20,7 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 ### Demo applications
 * galileo - Deferred 3D renderer with physics and scripting
 * gltfviewer - Forward 3D renderer for glTF files implementing a Physically Based Rendering workflow
+* reshed - Text editor with bitmap font rendering and GLSL syntax highlighting
 
 Repository: [jan-kelemen/niku](https://github.com/jan-kelemen/niku)
 
