@@ -21,6 +21,7 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 * galileo - Deferred 3D renderer with physics and scripting
 * gltfviewer - Forward 3D renderer for glTF files implementing a Physically Based Rendering workflow
 * reshed - Text editor with bitmap font rendering and GLSL syntax highlighting
+* heatx - Basic renderer for glTF files implemented with Ray Tracing extensions
 
 Repository: [jan-kelemen/niku](https://github.com/jan-kelemen/niku)
 
