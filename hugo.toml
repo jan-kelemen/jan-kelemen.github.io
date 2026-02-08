@@ -1,0 +1,67 @@
+baseURL = 'https://jk.rubberdax.xyz/'
+
+title = 'Jan Kelemen - Personal site'
+author = 'Jan Kelemen'
+copyright = '© [Jan Kelemen](https://www.rubberdax.xyz)'
+
+theme = 'risotto'
+
+[markup.goldmark.renderer]
+[markup.highlight]
+style = 'aura-theme-dark'
+
+[pagination]
+pagerSize = 3
+
+[menu]
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/post"
+
+[params.about]
+title = "Jan Kelemen"
+description = "Software, mountain bikes and old cars"
+logo_image = "avatar.jpg"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/jan-kelemen"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-gitlab"
+title = "GitLab"
+url = "https://gitlab.com/jan-kelemen"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin-in"
+title = "GitLab"
+url = "https://www.linkedin.com/in/jan-kelemen-8ba870106/"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/@tyrannizer"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-tiktok"
+title = "TikTok"
+url = "https://www.tiktok.com/@tyr10563"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:jkeleme@gmail.com"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:jk@rubberdax.xyz"
+
