@@ -3,13 +3,25 @@
 img[src$='#center']{
   display: block;
   margin: 0.7rem auto;
- }
+}
 
- ul.pagination {
-   padding: 0;
-   margin: 0;
- }
+ul.pagination {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
 
- li.page-item {
-   display: inline
- }
+li.page-item {
+  display: inline;
+  list-style-type: none;
+  width: 100%;
+}
+
+a.page-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
