@@ -13,7 +13,7 @@ title: It Goes In The Square Hole
 
 I gave a hint that I wanted to study how to do mouse picking in a 3D environment properly. 
 For that, I've chosen to go with the route of raycasting from the mouse position into the scene and remake the scene from the popular video [The Original Square Hole Girl Video + The Redemption](https://www.youtube.com/watch?v=cUbIkNUFs-4).
-Link to the source code: [jan-kelemen/geos](https://github.com/jan-kelemen/geos)
+Link to the source code: [jan-kelemen/geos](https://github.com/jan-kelemen/graphics-demos/tree/master/geos)
 
 You can see the results in the video below.
 

@@ -36,6 +36,11 @@ title = "GitHub"
 url = "https://github.com/jan-kelemen"
 
 [[params.socialLinks]]
+icon = "fa-solid fa-mountain"
+title = "Codeberg"
+url = "https://codeberg.org/jan-kelemen"
+
+[[params.socialLinks]]
 icon = "fa-brands fa-gitlab"
 title = "GitLab"
 url = "https://gitlab.com/jan-kelemen"

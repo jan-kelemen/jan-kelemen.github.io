@@ -27,12 +27,12 @@ I use [GitHub](https://github.com/jan-kelemen) for my personal projects and
 Repository: [jan-kelemen/niku](https://github.com/jan-kelemen/niku)
 
 ## Graphics demos (2024 - Active)
-* beam - Compute shader raytracer (2024), [Blog post](/2024/08/25/i-see-spheres-now.html), [Repository](https://github.com/jan-kelemen/beam)
-* soil - Terrain renderer (2024), [Blog post](/2024/08/10/rendering-medvednica-from-heightmap.html), [Repository](https://github.com/jan-kelemen/soil)
-* geos - Geometric shape sorter (2024), [Blog post](/2024/07/05/it-goes-in-the-square-hole.html), [Repository](https://github.com/jan-kelemen/geos)
-* pawn - Chess engine visualization (2024), [Blog post](/2024/06/13/chess-engine-visualization.html), [Repository](https://github.com/jan-kelemen/pawn)
+* beam - Compute shader raytracer (2024), [Blog post](/2024/08/25/i-see-spheres-now.html), [Repository](https://github.com/jan-kelemen/graphics-demos/tree/master/beam)
+* soil - Terrain renderer (2024), [Blog post](/2024/08/10/rendering-medvednica-from-heightmap.html), [Repository](https://github.com/jan-kelemen/graphics-demos/tree/master/soil)
+* geos - Geometric shape sorter (2024), [Blog post](/2024/07/05/it-goes-in-the-square-hole.html), [Repository](https://github.com/jan-kelemen/graphics-demos/tree/master/geos)
+* pawn - Chess engine visualization (2024), [Blog post](/2024/06/13/chess-engine-visualization.html), [Repository](https://github.com/jan-kelemen/graphics-demos/tree/master/pawn)
 * Super Mario Bros - World 1-1 remake (2024), [Blog post](/2024/05/14/remaking-world-11-mostly.html)
-* vkchip8 - CHIP-8 emulator (2024), [Repository](https://github.com/jan-kelemen/vkchip8)
+* vkchip8 - CHIP-8 emulator (2024), [Repository](https://github.com/jan-kelemen/graphics-demos/tree/master/vkchip8)
 
 ## cpp-starter-template (2020 - Active)
 Modern CMake template for C++ projects, mostly made out of personal need not to set it up from scratch for every project.

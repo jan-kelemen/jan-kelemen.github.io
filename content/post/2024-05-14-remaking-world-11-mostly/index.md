@@ -14,8 +14,8 @@ title: Remaking World 1-1 with Vulkan, mostly
 ---
 
 A couple of months ago (2 to be exact), I started learning graphics programming with [Vulkan API](https://www.vulkan.org).
-I went through the [Vulkan Tutorial](https://vulkan-tutorial.com), then made a [Pong](https://github.com/jan-kelemen/vkpong)
-clone and a [CHIP-8 emulator](https://github.com/jan-kelemen/vkchip8).
+I went through the [Vulkan Tutorial](https://vulkan-tutorial.com), then made a [Pong](https://github.com/jan-kelemen/graphics-demos/tree/master/vkpong)
+clone and a [CHIP-8 emulator](https://github.com/jan-kelemen/graphics-demos/tree/master/vkchip8).
 
 Sidenote, before this I'd never done any serious graphics programming at all, so use the information given here as a learning resource at your own risk.
 

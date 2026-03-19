@@ -33,7 +33,7 @@ It was raining on a Sunday.
 That was pretty much the moment when I decided to open the [Vulkan Tutorial](https://vulkan-tutorial.com), having almost no prior experience with graphics or game development.
 
 Following that rainy night (well, actually it took me a week to go through the tutorial), I continued by doing graphics demos until I had gotten the basic architecture of the code to a stable state.
-The video above features previously unseen footage of [vkpong](https://github.com/jan-kelemen/vkpong) and [vkchip8](https://github.com/jan-kelemen/vkchip8) demos.
+The video above features previously unseen footage of [vkpong](https://github.com/jan-kelemen/graphics-demos/tree/master/vkpong) and [vkchip8](https://github.com/jan-kelemen/graphics-demos/tree/master/vkchip8) demos.
 
 I've gotten familiar with glTF loading and basic lighting model with [pawn](/post/2024-06-13-chess-engine-visualization).
 Learned how to use a physics engine with [geos](/post/2024-07-05-it-goes-in-the-square-hole) and terrain rendering with [soil](/post/2024-08-10-rendering-medvednica-from-heightmap).

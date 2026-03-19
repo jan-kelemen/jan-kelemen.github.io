@@ -18,7 +18,7 @@ Since I had never actually written a raytracer, I wanted to learn about this top
 The title doesn't lie, my first CPU raytracer did take only one weekend.
 
 Afterward, I tried making the same raytracer using a compute shader and with the possibility to move around the scene in real time. 
-Results are in the video below, link to the source code: [jan-kelemen/beam](https://github.com/jan-kelemen/beam)
+Results are in the video below, link to the source code: [jan-kelemen/beam](https://github.com/jan-kelemen/graphics-demos/tree/master/beam)
 
 {{< youtube "JA4OlH6nH3M" >}}
 

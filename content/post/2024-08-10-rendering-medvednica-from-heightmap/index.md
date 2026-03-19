@@ -16,7 +16,7 @@ title: Rendering Medvednica From a Heightmap
 I started this project to explore the usage of Bullet's [btHeightfieldTerrainShape](https://pybullet.org/Bullet/BulletFull/classbtHeightfieldTerrainShape.html) collision shape, initial idea was to generate a heightmap using [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise).
 I ended up using a static heightmap as I didn't like the results I was getting with the terrain generated from using plain noise.
 
-Results are in the video below, Link to the source code: [jan-kelemen/soil](https://github.com/jan-kelemen/soil)
+Results are in the video below, Link to the source code: [jan-kelemen/soil](https://github.com/jan-kelemen/graphics-demos/tree/master/soil)
 
 {{< youtube "wr8dgD03Gz0" >}}
 

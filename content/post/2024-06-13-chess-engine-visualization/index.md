@@ -13,7 +13,7 @@ title: Chess engine visualization
 ---
 
 In the previous post [Remaking World 1-1 with Vulkan, mostly](/post/2024-05-14-remaking-world-11-mostly) I've shown my progress with learning graphics programming.
-In the meantime, I finished another project *pawn*, a UCI protocol "compatible" GUI rendered with Vulkan API. Link to the source code: [jan-kelemen/pawn](https://github.com/jan-kelemen/pawn).
+In the meantime, I finished another project *pawn*, a UCI protocol "compatible" GUI rendered with Vulkan API. Link to the source code: [jan-kelemen/pawn](https://github.com/jan-kelemen/graphics-demos/tree/master/pawn).
 
 The original idea that I had in mind when I started was to allow the player to play against the chess engine and for the board to be rendered in an isometric projection and 2.5D, kind of like [IsoChess](https://store.steampowered.com/app/2271360/IsoChess/).
 This changed a bit along the way, I've kept the isometric view of the board, but the pieces and the board are full 3D models, it turns out it's easier to find 3D models than the ones that would fit into the 2.5D style.
